@@ -1,4 +1,4 @@
-### 伤害类型
+### 伤害 类型
 | Abbreviation | affliction | damage |
 | ------- | ------- | ------- |
 | burn | burning燃烧 |  |
